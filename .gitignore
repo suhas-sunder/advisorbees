@@ -1,15 +1,7 @@
-# Remix compiler artifacts
-**/artifacts/
-**/artifacts/**
-
-# Remix plugin state folders
-deps/
-states/
-
-# Debug info
-*.dbg.json
+.DS_Store
+/node_modules/
 *.tsbuildinfo
 
-# Optional
-.env
-.env.local
+# React Router
+/.react-router/
+/build/
